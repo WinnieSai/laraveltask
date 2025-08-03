@@ -6,7 +6,7 @@ This is **laraveltask**, my first Laravel project — a simple **Task Management
 
 ## 🔐 Login Page
 
-> *insert image here*  
+> ![Alt Text](https://media.discordapp.net/attachments/1401584516140630026/1401584533056262184/image.png?ex=6890ced0&is=688f7d50&hm=79aab74e975f8281ce273ad71fe9c19b6b2cc3134443430e4688704fa34809e9&=&format=webp&quality=lossless&width=1460&height=686)
 The user first lands on the login page.  
 If they don’t have an account yet, they can click the register link.
 
